@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sahilpatel3091
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Power BI
+- 👀 Data Analysis @Lampros Tech
 - 📫 How to reach me sahilpatel006009@gmail.com
 
 <!---
